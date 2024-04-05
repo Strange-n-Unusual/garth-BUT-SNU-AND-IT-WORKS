@@ -51,7 +51,7 @@ defaults:
       layout: page # Default layout
   -
     scope:
-      path: ""
+      path: "_posts/"
       type: posts
     values:
       layout: post # Default layout
