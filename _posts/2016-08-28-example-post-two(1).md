@@ -1,6 +1,6 @@
 ---
-title: Hello World!
-category: General
+title: Entry 1
+category: story
 ---
 
 Hey guys (as in, anyone who managed to find this site), I mostly go by Feli on-line and I welcome you to my little database of strange-and-usual stories! 
