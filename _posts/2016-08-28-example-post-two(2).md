@@ -1,5 +1,5 @@
 ---
-title: Entry 1
+title: Entry 2
 category: story
 ---
 
